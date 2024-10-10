@@ -1,0 +1,1 @@
+ALTER TABLE messages ADD COLUMN sender_username VARCHAR(255) NOT NULL;
